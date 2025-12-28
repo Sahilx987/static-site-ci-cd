@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/Sahi/static-site-ci-cd.git'
+                    url: 'https://github.com/Sahix987/static-site-ci-cd.git'
             }
         }
 
