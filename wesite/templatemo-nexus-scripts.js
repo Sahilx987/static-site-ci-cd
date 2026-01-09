@@ -1,8 +1,8 @@
 /*
 
-TemplateMo 594 nexus flow
+TemplateMo 594 Sahil
 
-https://templatemo.com/tm-594-nexus-flow
+https://templatemo.com/tm-594-Sahil
 
 */
 
@@ -458,4 +458,5 @@ https://templatemo.com/tm-594-nexus-flow
                     }, 3000);
                 }, 2000);
             }
+
         });
